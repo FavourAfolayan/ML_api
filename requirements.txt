@@ -1,0 +1,8 @@
+fastapi==0.97.0
+jsonpointer==2.3
+jsonschema==4.17.3
+pickleshare==0.7.5
+pydantic==1.10.9
+scikit-learn==1.2.2
+uvicorn==0.22.0
+
